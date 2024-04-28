@@ -36,3 +36,7 @@ $ streamlit run main.py
 ```
 $ deactivate
 ```
+
+### Screenshot
+
+![Alt text for your image](dsbda_projects.png)
